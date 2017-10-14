@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\bin\Debug\SSSAssignment2_IT15097934.exe.config
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\bin\Debug\SSSAssignment2_IT15097934.exe
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\bin\Debug\SSSAssignment2_IT15097934.pdb
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.frm_encDec.resources
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.Properties.Resources.resources
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.exe
+D:\Visual Studio Projects\SSSAssignment2_IT15097934\SSSAssignment2_IT15097934\obj\Debug\SSSAssignment2_IT15097934.pdb
